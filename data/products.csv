@@ -1,0 +1,161 @@
+product_id,category,product_name,list_price,unit_cost,elasticity
+P1000,Grocery,Grocery Item 1,6.87,4.9,-1.6
+P1001,Grocery,Grocery Item 2,4.03,3.22,-1.6
+P1002,Grocery,Grocery Item 3,2.76,2.2,-1.6
+P1003,Grocery,Grocery Item 4,11.2,9.42,-1.6
+P1004,Grocery,Grocery Item 5,2.27,1.69,-1.6
+P1005,Grocery,Grocery Item 6,4.38,3.28,-1.6
+P1006,Grocery,Grocery Item 7,5.96,3.71,-1.6
+P1007,Grocery,Grocery Item 8,5.79,4.85,-1.6
+P1008,Grocery,Grocery Item 9,9.95,7.51,-1.6
+P1009,Grocery,Grocery Item 10,6.76,4.97,-1.6
+P1010,Grocery,Grocery Item 11,7.93,5.89,-1.6
+P1011,Grocery,Grocery Item 12,8.69,7.09,-1.6
+P1012,Grocery,Grocery Item 13,9.7,7.64,-1.6
+P1013,Grocery,Grocery Item 14,4.22,3.16,-1.6
+P1014,Grocery,Grocery Item 15,2.85,2.12,-1.6
+P1015,Grocery,Grocery Item 16,3.27,2.74,-1.6
+P1016,Grocery,Grocery Item 17,10.9,7.83,-1.6
+P1017,Grocery,Grocery Item 18,8.44,6.5,-1.6
+P1018,Grocery,Grocery Item 19,2.45,1.88,-1.6
+P1019,Grocery,Grocery Item 20,10.61,8.52,-1.6
+P1020,Grocery,Grocery Item 21,6.05,5.44,-1.6
+P1021,Grocery,Grocery Item 22,4.4,3.75,-1.6
+P1022,Grocery,Grocery Item 23,14.6,11.58,-1.6
+P1023,Grocery,Grocery Item 24,13.98,11.64,-1.6
+P1024,Grocery,Grocery Item 25,3.15,2.27,-1.6
+P1025,Grocery,Grocery Item 26,5.53,3.79,-1.6
+P1026,Grocery,Grocery Item 27,12.77,8.93,-1.6
+P1027,Grocery,Grocery Item 28,9.06,6.59,-1.6
+P1028,Grocery,Grocery Item 29,3.83,3.12,-1.6
+P1029,Grocery,Grocery Item 30,11.48,9.57,-1.6
+P1030,Grocery,Grocery Item 31,12.03,9.23,-1.6
+P1031,Grocery,Grocery Item 32,3.51,2.61,-1.6
+P1032,Grocery,Grocery Item 33,13.22,9.12,-1.6
+P1033,Grocery,Grocery Item 34,2.83,2.39,-1.6
+P1034,Grocery,Grocery Item 35,6.04,5.14,-1.6
+P1035,Grocery,Grocery Item 36,10.29,7.47,-1.6
+P1036,Grocery,Grocery Item 37,13.53,9.71,-1.6
+P1037,Grocery,Grocery Item 38,11.27,8.74,-1.6
+P1038,Grocery,Grocery Item 39,11.89,10.34,-1.6
+P1039,Grocery,Grocery Item 40,8.42,6.74,-1.6
+P1040,Apparel,Apparel Item 1,54.2,24.72,-2.2
+P1041,Apparel,Apparel Item 2,23.09,11.0,-2.2
+P1042,Apparel,Apparel Item 3,17.36,6.86,-2.2
+P1043,Apparel,Apparel Item 4,53.14,28.83,-2.2
+P1044,Apparel,Apparel Item 5,83.07,37.21,-2.2
+P1045,Apparel,Apparel Item 6,71.67,27.97,-2.2
+P1046,Apparel,Apparel Item 7,32.16,15.03,-2.2
+P1047,Apparel,Apparel Item 8,27.09,12.31,-2.2
+P1048,Apparel,Apparel Item 9,84.73,43.22,-2.2
+P1049,Apparel,Apparel Item 10,80.36,44.16,-2.2
+P1050,Apparel,Apparel Item 11,75.28,42.33,-2.2
+P1051,Apparel,Apparel Item 12,82.21,40.33,-2.2
+P1052,Apparel,Apparel Item 13,38.85,18.05,-2.2
+P1053,Apparel,Apparel Item 14,47.03,21.54,-2.2
+P1054,Apparel,Apparel Item 15,76.35,24.48,-2.2
+P1055,Apparel,Apparel Item 16,31.66,15.85,-2.2
+P1056,Apparel,Apparel Item 17,23.99,12.17,-2.2
+P1057,Apparel,Apparel Item 18,39.24,18.44,-2.2
+P1058,Apparel,Apparel Item 19,53.91,22.83,-2.2
+P1059,Apparel,Apparel Item 20,87.88,49.59,-2.2
+P1060,Apparel,Apparel Item 21,87.18,41.75,-2.2
+P1061,Apparel,Apparel Item 22,37.57,14.26,-2.2
+P1062,Apparel,Apparel Item 23,36.36,17.68,-2.2
+P1063,Apparel,Apparel Item 24,52.7,23.93,-2.2
+P1064,Apparel,Apparel Item 25,18.86,9.59,-2.2
+P1065,Apparel,Apparel Item 26,32.97,15.31,-2.2
+P1066,Apparel,Apparel Item 27,25.87,12.95,-2.2
+P1067,Apparel,Apparel Item 28,33.15,15.9,-2.2
+P1068,Apparel,Apparel Item 29,65.41,28.35,-2.2
+P1069,Apparel,Apparel Item 30,69.62,36.65,-2.2
+P1070,Apparel,Apparel Item 31,42.58,24.03,-2.2
+P1071,Apparel,Apparel Item 32,55.18,31.1,-2.2
+P1072,Apparel,Apparel Item 33,21.77,9.81,-2.2
+P1073,Apparel,Apparel Item 34,28.99,15.52,-2.2
+P1074,Apparel,Apparel Item 35,18.06,10.52,-2.2
+P1075,Electronics,Electronics Item 1,36.14,27.92,-1.1
+P1076,Electronics,Electronics Item 2,219.47,166.57,-1.1
+P1077,Electronics,Electronics Item 3,94.52,61.12,-1.1
+P1078,Electronics,Electronics Item 4,285.65,216.3,-1.1
+P1079,Electronics,Electronics Item 5,80.88,57.45,-1.1
+P1080,Electronics,Electronics Item 6,156.19,109.11,-1.1
+P1081,Electronics,Electronics Item 7,274.19,206.57,-1.1
+P1082,Electronics,Electronics Item 8,332.37,266.51,-1.1
+P1083,Electronics,Electronics Item 9,119.49,104.24,-1.1
+P1084,Electronics,Electronics Item 10,64.45,40.84,-1.1
+P1085,Electronics,Electronics Item 11,159.21,126.01,-1.1
+P1086,Electronics,Electronics Item 12,298.6,226.06,-1.1
+P1087,Electronics,Electronics Item 13,61.13,48.48,-1.1
+P1088,Electronics,Electronics Item 14,89.8,65.88,-1.1
+P1089,Electronics,Electronics Item 15,33.4,25.75,-1.1
+P1090,Electronics,Electronics Item 16,67.54,49.34,-1.1
+P1091,Electronics,Electronics Item 17,286.0,185.04,-1.1
+P1092,Electronics,Electronics Item 18,271.23,207.24,-1.1
+P1093,Electronics,Electronics Item 19,117.78,78.06,-1.1
+P1094,Electronics,Electronics Item 20,150.4,115.24,-1.1
+P1095,Electronics,Electronics Item 21,344.21,274.03,-1.1
+P1096,Electronics,Electronics Item 22,273.32,182.56,-1.1
+P1097,Electronics,Electronics Item 23,166.05,121.01,-1.1
+P1098,Electronics,Electronics Item 24,128.12,99.0,-1.1
+P1099,Electronics,Electronics Item 25,263.52,185.95,-1.1
+P1100,Home & Kitchen,Home Item 1,97.43,69.57,-1.8
+P1101,Home & Kitchen,Home Item 2,64.18,35.66,-1.8
+P1102,Home & Kitchen,Home Item 3,31.48,15.5,-1.8
+P1103,Home & Kitchen,Home Item 4,12.67,7.71,-1.8
+P1104,Home & Kitchen,Home Item 5,81.0,43.95,-1.8
+P1105,Home & Kitchen,Home Item 6,116.33,69.15,-1.8
+P1106,Home & Kitchen,Home Item 7,116.0,60.65,-1.8
+P1107,Home & Kitchen,Home Item 8,52.36,31.24,-1.8
+P1108,Home & Kitchen,Home Item 9,103.63,51.24,-1.8
+P1109,Home & Kitchen,Home Item 10,71.25,36.99,-1.8
+P1110,Home & Kitchen,Home Item 11,112.98,66.41,-1.8
+P1111,Home & Kitchen,Home Item 12,20.69,13.57,-1.8
+P1112,Home & Kitchen,Home Item 13,77.65,47.63,-1.8
+P1113,Home & Kitchen,Home Item 14,91.48,50.6,-1.8
+P1114,Home & Kitchen,Home Item 15,86.67,42.68,-1.8
+P1115,Home & Kitchen,Home Item 16,42.3,26.77,-1.8
+P1116,Home & Kitchen,Home Item 17,99.03,56.28,-1.8
+P1117,Home & Kitchen,Home Item 18,110.46,62.46,-1.8
+P1118,Home & Kitchen,Home Item 19,66.25,42.15,-1.8
+P1119,Home & Kitchen,Home Item 20,81.5,44.86,-1.8
+P1120,Home & Kitchen,Home Item 21,87.22,49.19,-1.8
+P1121,Home & Kitchen,Home Item 22,47.18,26.45,-1.8
+P1122,Home & Kitchen,Home Item 23,51.31,28.73,-1.8
+P1123,Home & Kitchen,Home Item 24,13.95,6.96,-1.8
+P1124,Home & Kitchen,Home Item 25,61.22,27.1,-1.8
+P1125,Home & Kitchen,Home Item 26,74.99,42.85,-1.8
+P1126,Home & Kitchen,Home Item 27,13.36,6.63,-1.8
+P1127,Home & Kitchen,Home Item 28,67.45,35.74,-1.8
+P1128,Home & Kitchen,Home Item 29,94.7,55.21,-1.8
+P1129,Home & Kitchen,Home Item 30,19.39,9.19,-1.8
+P1130,Health & Beauty,Health Item 1,7.07,3.98,-1.4
+P1131,Health & Beauty,Health Item 2,30.5,16.18,-1.4
+P1132,Health & Beauty,Health Item 3,34.04,14.33,-1.4
+P1133,Health & Beauty,Health Item 4,17.92,8.0,-1.4
+P1134,Health & Beauty,Health Item 5,36.81,14.48,-1.4
+P1135,Health & Beauty,Health Item 6,8.14,2.6,-1.4
+P1136,Health & Beauty,Health Item 7,6.01,2.25,-1.4
+P1137,Health & Beauty,Health Item 8,11.93,6.2,-1.4
+P1138,Health & Beauty,Health Item 9,11.26,4.94,-1.4
+P1139,Health & Beauty,Health Item 10,33.58,10.86,-1.4
+P1140,Health & Beauty,Health Item 11,31.41,13.9,-1.4
+P1141,Health & Beauty,Health Item 12,29.47,15.3,-1.4
+P1142,Health & Beauty,Health Item 13,21.78,8.19,-1.4
+P1143,Health & Beauty,Health Item 14,35.31,12.12,-1.4
+P1144,Health & Beauty,Health Item 15,5.58,2.26,-1.4
+P1145,Health & Beauty,Health Item 16,8.91,4.74,-1.4
+P1146,Health & Beauty,Health Item 17,24.66,8.44,-1.4
+P1147,Health & Beauty,Health Item 18,22.35,9.25,-1.4
+P1148,Health & Beauty,Health Item 19,20.94,10.73,-1.4
+P1149,Health & Beauty,Health Item 20,6.81,3.4,-1.4
+P1150,Health & Beauty,Health Item 21,19.98,8.46,-1.4
+P1151,Health & Beauty,Health Item 22,39.26,22.02,-1.4
+P1152,Health & Beauty,Health Item 23,31.35,12.79,-1.4
+P1153,Health & Beauty,Health Item 24,28.43,12.04,-1.4
+P1154,Health & Beauty,Health Item 25,42.61,13.05,-1.4
+P1155,Health & Beauty,Health Item 26,30.73,15.27,-1.4
+P1156,Health & Beauty,Health Item 27,23.33,10.76,-1.4
+P1157,Health & Beauty,Health Item 28,20.44,8.67,-1.4
+P1158,Health & Beauty,Health Item 29,43.45,16.98,-1.4
+P1159,Health & Beauty,Health Item 30,17.76,7.68,-1.4
